@@ -13,7 +13,7 @@ class Solution {
 public:
     vector<int> inorderTraversal(TreeNode* root) {
 
-        vector<int> ans;
+        /*vector<int> ans;
 
         if(root== NULL) return ans;
 
@@ -39,6 +39,40 @@ public:
         }
 
         return ans;
-        
+
+        */
+
+        vector<int> ans;
+        TreeNode* curr = root;
+
+    while (curr != NULL) {
+
+        if (curr->left == NULL) {
+            ans.push_back(curr->val);
+            curr = curr->right;
+        } 
+        else {
+            TreeNode* IP = curr->left;
+
+            // find rightmost node
+            while (IP->right != NULL && IP->right != curr) {
+                IP = IP->right;
+            }
+
+            if (IP->right == NULL) {
+                // create thread
+                IP->right = curr;
+                curr = curr->left;
+            } 
+            else {
+                // remove thread
+                IP->right = NULL;
+                ans.push_back(curr->val);
+                curr = curr->right;
+            }
+        }
     }
+
+    return ans;
+}
 };

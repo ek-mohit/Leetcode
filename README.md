@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ek-mohit/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0238-product-of-array-except-self](https://github.com/ek-mohit/Leetcode/tree/master/0238-product-of-array-except-self) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ek-mohit/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ek-mohit/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->

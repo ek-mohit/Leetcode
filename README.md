@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/ek-mohit/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ek-mohit/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ek-mohit/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/ek-mohit/Leetcode/tree/master/0547-number-of-provinces) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ek-mohit/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ek-mohit/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ek-mohit/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/ek-mohit/Leetcode/tree/master/0547-number-of-provinces) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ek-mohit/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Dynamic Programming
 |  |
@@ -86,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ek-mohit/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ek-mohit/Leetcode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ek-mohit/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->

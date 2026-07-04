@@ -3,10 +3,11 @@ public:
 
 
 
-int solve(vector<int>&nums , int i, vector<int> &dp){
-  int n= nums.size();
+int solve(vector<int>&nums , int i){
+  /*int n= nums.size();
 
     if(i>=n) return 0;
+    
 
      if(dp[i]!=-1) return dp[i];
 
@@ -19,14 +20,32 @@ int solve(vector<int>&nums , int i, vector<int> &dp){
 
     dp[i]= max(inc, exl);
     return dp[i];
+
+    */
+    int n= nums.size();
+    vector<int> dp(n+2,0);
+
+    for(int i= n-1 ; i>=0; i--){
+        int incl = dp[i+2]+nums[i];
+        int excl = dp[i+1];
+
+        dp[i]= max(incl, excl);
+    }
+    return dp[0];
+
+    
+
 }
     int rob(vector<int>& nums) {
-          int n= nums.size();
+         /* int n= nums.size();
 
        vector<int> dp(n,-1);
 
         int ans= solve(nums,0,dp);
         return ans;
+        */
+
+        return solve(nums, 0);
         
     }
 };

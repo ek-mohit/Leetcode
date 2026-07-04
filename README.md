@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ek-mohit/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0198-house-robber](https://github.com/ek-mohit/Leetcode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/ek-mohit/Leetcode/tree/master/0238-product-of-array-except-self) |
 ## Divide and Conquer
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/ek-mohit/Leetcode/tree/master/0198-house-robber) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ek-mohit/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Linked List
 |  |

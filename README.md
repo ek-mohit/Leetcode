@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ek-mohit/Leetcode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/ek-mohit/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0377-combination-sum-iv](https://github.com/ek-mohit/Leetcode/tree/master/0377-combination-sum-iv) |
+| [0983-minimum-cost-for-tickets](https://github.com/ek-mohit/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ek-mohit/Leetcode/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/ek-mohit/Leetcode/tree/master/0279-perfect-squares) |
 | [0377-combination-sum-iv](https://github.com/ek-mohit/Leetcode/tree/master/0377-combination-sum-iv) |
+| [0983-minimum-cost-for-tickets](https://github.com/ek-mohit/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ek-mohit/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Linked List
 |  |

@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ek-mohit/Leetcode/tree/master/0027-remove-element) |
+| [0039-combination-sum](https://github.com/ek-mohit/Leetcode/tree/master/0039-combination-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ek-mohit/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/ek-mohit/Leetcode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/ek-mohit/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ek-mohit/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/ek-mohit/Leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->

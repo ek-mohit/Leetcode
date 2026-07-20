@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ek-mohit/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ek-mohit/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ek-mohit/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0135-candy](https://github.com/ek-mohit/Leetcode/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/ek-mohit/Leetcode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/ek-mohit/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0377-combination-sum-iv](https://github.com/ek-mohit/Leetcode/tree/master/0377-combination-sum-iv) |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/ek-mohit/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ek-mohit/Leetcode/tree/master/0040-combination-sum-ii) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/ek-mohit/Leetcode/tree/master/0135-candy) |
 <!---LeetCode Topics End-->

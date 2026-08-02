@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ek-mohit/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0377-combination-sum-iv](https://github.com/ek-mohit/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0983-minimum-cost-for-tickets](https://github.com/ek-mohit/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
+| [1402-reducing-dishes](https://github.com/ek-mohit/Leetcode/tree/master/1402-reducing-dishes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/ek-mohit/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0983-minimum-cost-for-tickets](https://github.com/ek-mohit/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ek-mohit/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1402-reducing-dishes](https://github.com/ek-mohit/Leetcode/tree/master/1402-reducing-dishes) |
 ## Linked List
 |  |
 | ------- |
@@ -134,8 +136,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/ek-mohit/Leetcode/tree/master/0135-candy) |
+| [1402-reducing-dishes](https://github.com/ek-mohit/Leetcode/tree/master/1402-reducing-dishes) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ek-mohit/Leetcode/tree/master/0070-climbing-stairs) |
+## Sorting
+|  |
+| ------- |
+| [1402-reducing-dishes](https://github.com/ek-mohit/Leetcode/tree/master/1402-reducing-dishes) |
 <!---LeetCode Topics End-->

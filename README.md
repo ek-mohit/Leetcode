@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ek-mohit/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ek-mohit/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0064-minimum-path-sum](https://github.com/ek-mohit/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/ek-mohit/Leetcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ek-mohit/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/ek-mohit/Leetcode/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/ek-mohit/Leetcode/tree/master/0198-house-robber) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ek-mohit/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ek-mohit/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ek-mohit/Leetcode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/ek-mohit/Leetcode/tree/master/0075-sort-colors) |
 | [0633-sum-of-square-numbers](https://github.com/ek-mohit/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Prefix Sum
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ek-mohit/Leetcode/tree/master/0075-sort-colors) |
 | [1402-reducing-dishes](https://github.com/ek-mohit/Leetcode/tree/master/1402-reducing-dishes) |
 ## Heap (Priority Queue)
 |  |
@@ -173,4 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/ek-mohit/Leetcode/tree/master/0064-minimum-path-sum) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ek-mohit/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ek-mohit/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

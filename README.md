@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ek-mohit/Leetcode/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/ek-mohit/Leetcode/tree/master/0279-perfect-squares) |
 | [0377-combination-sum-iv](https://github.com/ek-mohit/Leetcode/tree/master/0377-combination-sum-iv) |
+| [0516-longest-palindromic-subsequence](https://github.com/ek-mohit/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0983-minimum-cost-for-tickets](https://github.com/ek-mohit/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1143-longest-common-subsequence](https://github.com/ek-mohit/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ek-mohit/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ek-mohit/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/ek-mohit/Leetcode/tree/master/0038-count-and-say) |
 | [0126-word-ladder-ii](https://github.com/ek-mohit/Leetcode/tree/master/0126-word-ladder-ii) |
+| [0516-longest-palindromic-subsequence](https://github.com/ek-mohit/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/ek-mohit/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## String Matching
 |  |

@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/ek-mohit/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0279-perfect-squares](https://github.com/ek-mohit/Leetcode/tree/master/0279-perfect-squares) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ek-mohit/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/ek-mohit/Leetcode/tree/master/0547-number-of-provinces) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ek-mohit/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ek-mohit/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/ek-mohit/Leetcode/tree/master/0038-count-and-say) |
+| [0126-word-ladder-ii](https://github.com/ek-mohit/Leetcode/tree/master/0126-word-ladder-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ek-mohit/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ek-mohit/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ek-mohit/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0126-word-ladder-ii](https://github.com/ek-mohit/Leetcode/tree/master/0126-word-ladder-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -184,4 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ek-mohit/Leetcode/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/ek-mohit/Leetcode/tree/master/0126-word-ladder-ii) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/ek-mohit/Leetcode/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->

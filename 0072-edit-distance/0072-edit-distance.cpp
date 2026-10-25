@@ -29,12 +29,24 @@ public:
 
         
     }
+
+    /*int solveTab(string &a, string &b){
+        int n1 =  word1.size();
+        int n2 =  word2.size();
+        vector<vector<int>> dp(n1+1, vector<int>(n2+1, 0));
+
+
+
+
+        
+    }
+    */
     int minDistance(string word1, string word2) {
          int n1 =  word1.size();
          int n2 =  word2.size();
 
         vector<vector<int>> dp(n1, vector<int>(n2, -1));
-        return  solve(word1 , word2, 0,0, dp);
+        return  solve(word1 , word2, 0,0,dp);
         
     }
 };

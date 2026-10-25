@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ek-mohit/Leetcode/tree/master/0022-generate-parentheses) |
 | [0064-minimum-path-sum](https://github.com/ek-mohit/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ek-mohit/Leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/ek-mohit/Leetcode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/ek-mohit/Leetcode/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/ek-mohit/Leetcode/tree/master/0279-perfect-squares) |
 | [0377-combination-sum-iv](https://github.com/ek-mohit/Leetcode/tree/master/0377-combination-sum-iv) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ek-mohit/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ek-mohit/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/ek-mohit/Leetcode/tree/master/0038-count-and-say) |
+| [0072-edit-distance](https://github.com/ek-mohit/Leetcode/tree/master/0072-edit-distance) |
 | [0126-word-ladder-ii](https://github.com/ek-mohit/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/ek-mohit/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/ek-mohit/Leetcode/tree/master/1143-longest-common-subsequence) |

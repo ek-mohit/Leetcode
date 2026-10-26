@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/ek-mohit/Leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [1388-pizza-with-3n-slices](https://github.com/ek-mohit/Leetcode/tree/master/1388-pizza-with-3n-slices) |
 | [1402-reducing-dishes](https://github.com/ek-mohit/Leetcode/tree/master/1402-reducing-dishes) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ek-mohit/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Divide and Conquer
 |  |
 | ------- |

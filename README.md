@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ek-mohit/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/ek-mohit/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/ek-mohit/Leetcode/tree/master/0126-word-ladder-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/ek-mohit/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 ## Bidirectional Search
 |  |
 | ------- |

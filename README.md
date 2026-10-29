@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/ek-mohit/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ek-mohit/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ek-mohit/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ek-mohit/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ek-mohit/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/ek-mohit/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ek-mohit/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ek-mohit/Leetcode/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ek-mohit/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/ek-mohit/Leetcode/tree/master/0135-candy) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ek-mohit/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/ek-mohit/Leetcode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/ek-mohit/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0377-combination-sum-iv](https://github.com/ek-mohit/Leetcode/tree/master/0377-combination-sum-iv) |
